@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Anastasis Litsas!
 
-📍 **Living in:** Heraklion, Crete, Greece  
+
 📧 **Hit me up:** [tas.litsas@gmail.com](mailto:tas.litsas@gmail.com)  
 🔗 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/anastasislitsas/)  
 
