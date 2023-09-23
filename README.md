@@ -6,7 +6,7 @@
 
 ## 🚀 Who Am I?
 
-I'm a Data Scientist and Software Engineer, but that's just my day job. What really gets me going is the endless world of machine learning and deep learning. Currently, I'm wrapping my head around my Master's degree, where I get to play with algorithms and systems analysis.
+I'm a Data Scientist and Software Engineer, but that's just my day job. What really gets me going is the endless world of machine learning and deep learning. Currently, I'm wrapping my head around my Master's degree at the University of Crete's Computer Science and Engineering department.
 
 ## 🌌 Interests
 
