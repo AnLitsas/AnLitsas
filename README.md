@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm Anastasis Litsas!
 
 📧 **Hit me up:** [tas.litsas@gmail.com](mailto:tas.litsas@gmail.com)  
-🔗 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/anastasislitsas/)
+🔗 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/anastasislitsas/)  
+🌐 **Got an idea that can change the world, or at least make someone's life easier? Let's talk.**
 
 ## 🚀 Who Am I?
 
@@ -22,9 +23,4 @@ I'm a Data Scientist and Software Engineer, but that's just my day job. What rea
   - **Other Libraries:** Matplotlib, Cv2, Transformers
   - **Data Engineering:** Apache Flink, Data warehouses, ETL processes
 </details>
-
-
-## 🌐 Let's Collaborate
-
-Got an idea that can change the world, or at least make someone's life easier? Let's talk. Reach out on [LinkedIn](https://www.linkedin.com/in/anastasislitsas/) or shoot me an [email](mailto:tas.litsas@gmail.com).
 
