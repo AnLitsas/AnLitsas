@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Anastasis Litsas!
+# 👋 Hey there, I'm Tasos!
 
 I'm a Machine Learning Engineer and currently exploring innovative applications of computer vision and Digital Twin technologies.
 
