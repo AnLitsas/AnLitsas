@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Anastasis Litsas!
 
-I'm a Machine Learning Engineerand currently exploring innovative applications of computer vision and Digital Twin technologies.
+I'm a Machine Learning Engineer and currently exploring innovative applications of computer vision and Digital Twin technologies.
 
 
 📧 **Hit me up:** [tas.litsas@gmail.com](mailto:tas.litsas@gmail.com)  
